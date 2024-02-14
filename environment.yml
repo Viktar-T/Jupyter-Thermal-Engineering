@@ -1,0 +1,6 @@
+name: oze-engineering
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
